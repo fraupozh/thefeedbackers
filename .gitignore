@@ -1,0 +1,7 @@
+.env
+# Jupyter Notebook
+.ipynb_checkpoints
+### macOS ###
+# General
+.DS_Store
+
